@@ -8,7 +8,7 @@ class bird::params {
       $daemon_name_v4   = 'bird'
       $daemon_name_v6   = 'bird6'
       $package_name_v4  = 'bird'
-      $package_name_v6  = 'bird6'
+      $package_name_v6  = 'bird'
     }
     'RedHat': {
       $config_path_v4   = '/etc/bird.conf'
